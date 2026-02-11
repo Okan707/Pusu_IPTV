@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_Buck_Bunny_first_2_minutes_OGG_theora_Vorbis_IIIb.ogg/1200px-Big_Buck_Bunny_first_2_minutes_OGG_theora_Vorbis_IIIb.ogg.jpg" group-title="Test",Big Buck Bunny (Test)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 group-title="Test",Elephant Dream (Test)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
